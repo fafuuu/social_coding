@@ -1,13 +1,13 @@
 # Social Coding WPF
 
 ## Themen
-0. Vorstellung
-1. Git Basics
+0. [Vorstellung](https://github.com/fafuuu/social_coding/blob/master/lesson0.md)
+1. [Git Basics](https://github.com/fafuuu/social_coding/blob/master/lesson1.md)
 2. [Contributing](https://github.com/fafuuu/social_coding/blob/master/lesson2.md)
-3. Deployment
+3. [Deployment](https://github.com/fafuuu/social_coding/blob/master/lesson3.md)
 4. [Meetup](https://github.com/fafuuu/social_coding/blob/master/lesson4_meetup.md)
-5. Vorbereitung Vorträge
-6. Vorträge
-7. Lizenzen/Berufseinstieg/Debugging
-8. 10 Tipps aus "Pragmatic Programmer"
-9. Fazit
+5. [Vorbereitung Vorträge](https://github.com/fafuuu/social_coding/blob/master/lesson5.md)
+6. [Vorträge](https://github.com/fafuuu/social_coding/blob/master/lesson6.md)
+7. [Lizenzen/Berufseinstieg/Debugging](https://github.com/fafuuu/social_coding/blob/master/lesson7.md)
+8. [10 Tipps aus "Pragmatic Programmer"](https://github.com/fafuuu/social_coding/blob/master/Pragmatic_Programmer.md)
+9. [Fazit](https://github.com/fafuuu/social_coding/blob/master/Fazit.md)
