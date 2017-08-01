@@ -5,7 +5,7 @@
 1. Git Basics
 2. [Contributing](https://github.com/fafuuu/social_coding/blob/master/lesson2.md)
 3. Deployment
-4. Meetup
+4. [Meetup](https://github.com/fafuuu/social_coding/blob/master/lesson4_meetup.md)
 5. Vorbereitung Vorträge
 6. Vorträge
 7. Lizenzen/Berufseinstieg/Debugging
