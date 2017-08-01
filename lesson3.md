@@ -57,7 +57,7 @@ Neustarten: `sudo systemctl restart nginx`
 
 Neuladen (Änderungen ohne Verbindung zu verlieren): `sudo systemctl reload nginx`
 
-Detaiiertere Informationen befinden sich [hier](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-16-04)
+Detaillierte Informationen befinden sich [hier](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-16-04)
 
 ### Aussicht auf die nächste Veranstaltung:
 
