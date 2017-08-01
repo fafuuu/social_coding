@@ -39,8 +39,11 @@ sudo apt-get install nginx
 ```
 Als nächstes muss die Firewall neu konfiguriert werden und nginx zuzulassen.
 Hier gibt es drei Profile für Nginx:
+
 **Nginx Full**: Port 80 und Port 443(TLS/SSL) geöffnet.
+
 **Nginx HTTP**: nur Port 80 geöffnet.
+
 **Nginx HTTPS** nur Port 443 geöfnet.
 
 Zum einstellen eines der Profile wird der command `sudo ufw allow 'Nginx HTTP'` verwendet.
