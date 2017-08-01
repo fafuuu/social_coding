@@ -1,6 +1,5 @@
 # 2.Veranstaltung
 
-
 In dieser Veranstaltung sollte jeder Teilnehmer sich ein Projekt aussuchen, an dem er gerne arbeiten, bzw.
 an dem er gerne mithelfen würde.
 
@@ -14,7 +13,7 @@ Dazu clonte ich mir das Repository und versuchte den Code der Bibliothek ans lau
 
 Nach einigen Anlaufschwierigkeiten und Fehlermeldungen gelang es mir den mitgelieferten Demo Code mithilfe von X11 auszuführen.
 
-Dann probierte ich etwas mir den Demos rum und entschied mich eine Wikiseite für die `Radio` Buttons anzulegen.
+Dann probierte ich etwas mir den Demos rum und entschied mich eine [Wikiseite](https://github.com/vurtun/nuklear/wiki/Radio) für die `Radio` Buttons anzulegen.
 Ein anderer Nutzer hatte bereits begonnen das Wiki zu füllen und so orientierte ich mich an seinem Beispiel, und machte einen Screenshot von besagten Button und gab die Funktion an, mit der die Buttons erstellt werden konnten.
 
 ### Fazit:
