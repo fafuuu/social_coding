@@ -10,7 +10,9 @@ Die Slides befinden sich [hier](https://github.com/fafuuu/social_coding/blob/mas
 ## Themen
 
 ### Free2Play vs Pay2Play
-
+In diesem Vortrag wurden die verschiedenen Geschäftsmodelle von Videospielen erläutert und anhand von Beispielen veranschaulicht.
+So handle es sich bei Free2Play um Spiele, die man kostenlos downloaden kann, aber mit Echtgeld Premium Inhalte kaufen kann (z.B bei Browsergames oder League of Legends). Auf der anderen Seite stehen Pay2Play Spiele wie Diablo(wo man einen einmaligen Kaufpreis hat) oder ein Abonnementbasiertes System wie bei World of Warcraft.
+Emre schlildert seine Eigenene Erfahrungen, die er mit den jeweiligen Modellen gemacht hat und fragt das Plenum nach seiner Meinung.
 
 ### Wordpress
 Wordpress wurde vorgestellt und es wurden Gründe genannt, warum Wordpress so beliebt ist (z.B Einfachheit, Sicherheit, Erweiterbarkeit)
@@ -28,7 +30,7 @@ Als Beispiele für Streaming Dienste wurden unter anderem Amazon Prime Video und
 
 ### IT bei der Bundeswehr
 Als Letztes kam der Vortrag über die IT Sparte der Bundeswehr. Max erklärte das er zwar nur wenig Berührungspunkte mit der Bundewehr hätte, er es aber ziehmlich interessant fände, was die BW im Moment in ihrem IT Sektor hochzuziehen versucht. Es werden die Aufgaben der IT-Battalione und der Elektronischen Kampfführung erklärt.
-Außerdem stellt er den `Cyber Readyness Index` vor und vergleicht so die Deutsche Infrastruktur mit der der USA.
+Desweiteren stellt er den `Cyber Readyness Index` vor und vergleicht so die Deutsche Infrastruktur mit der der USA.
 Es erfolgt außerdem ein Vergleich zwischen der Freien Wirtschaft und der Bundeswehr, wobei der Redner in diesem Fall nicht nur auf den Gehaltsaspekt eingeht, sondern auch auf den die Aspekte Selbstbestimmbares Leben und Pazifistische Lebensweise auf der einen, und mögliche Auslandseinsätze und die Verpflichtung auf mehrere Jahre auf der anderen Seite
 
 ### Vim
@@ -43,7 +45,8 @@ Es erfolgt außerdem ein Vergleich zwischen der Freien Wirtschaft und der Bundes
 
 ### Fazit
 
-Hilfreiches Feedback von Dirk, Live-Demo immer schwierig, mehr auf den command mode von vim eingehen sollen
+Nach dem Vortrag erhielt ich hilfreiches Feedback von Dirk, leider ging der Vortrag etwas über das Zeitlimit(was wohl an der Live-Demo lag), hielt sich aber scheinbar noch in Grenzen. Mir wurde geraten, das nächste Mal mehr auf den `command mode` von Vim einzugehen, da gerade das der Teil ist, von dem sich vim von anderen Editoren unterscheidet und was ihn so mächtig macht.
 
-Die anderen Vorträge waren sehr interessant, da mit Wordpress und Angular zwei Technologien vorgestellt wurden, mit denen ich mich noch nicht beschäftigt habe.
-Besonders gut gefallen hat mit der Vortrag IT bei der Bundeswehr von Max, da ich die beiden Perspektiven zwischen Arbeiten in der freien Wirtschaft und bei der Bundeswehr einen sehr interessanten Vergleich fand.
+Die anderen Vorträge waren sehr interessant, da mit Wordpress und Angular zwei Technologien vorgestellt wurden, mit denen ich mich noch nicht beschäftigt habe, und ich mit Twitch und Videospielen zwar schon einige Erfahrungen gemacht habe, aber auch hier von den Rednern Aspekte und Statistiken eingebracht wurden, sodass ich auch bei diesen Vorträgen etwas neues mitnehmen konnte.
+
+Besonders gut gefallen hat mit der Vortrag IT bei der Bundeswehr von Max, da ich die beiden Perspektiven zwischen Arbeiten in der freien Wirtschaft und bei der Bundeswehr einen sehr interessanten Vergleich fand. Für mich persönlich nehme ich aus diesem Vortrag mit, das die Bundeswehr für mich wohl kein geeigneter Arbeitgeber wäre.
