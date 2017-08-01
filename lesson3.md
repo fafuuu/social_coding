@@ -59,7 +59,67 @@ Neuladen (Änderungen ohne Verbindung zu verlieren): `sudo systemctl reload ngin
 
 Detaillierte Informationen befinden sich [hier](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-16-04)
 
+## Nginx Server Blocks aufsetzen
+
+Als letzen Schritt haben wir das Aufsetzen von Nginx Server Blocks behandelt.
+Diese ermöglichen es mehrere Domänen voneinander getrennt von dem gleichen Server zu betreiben.
+
+1. Zuerst müssen die Verzeichnisse für die Seite erstellt werden. `sudo mkdir -p /var/www/example.com/html`
+  + Optional kann die `ownership` dem user zugewiesen werden : `sudo chown -R $USER:$USER /var/www/example.com/html`
+
+2. Default Page erstellen: `nano /var/www/example.com/html/index.html`
+
+3. Server Block erstellen:
+  + Standardmäßig gibt es einen `Default` Block den Nginx benutzt
+    1. Default überschreiben: `sudo cp /etc/nginx/sites-available/default /etc/nginx/sites-available/example.com`
+    2. Neue Datei öffnen: `sudo nano /etc/nginx/sites-available/example.com`
+
+In der Datei befindet sich unter anderem dieser Ausschnitt:
+```
+server {
+        listen 80 default_server;
+        listen [::]:80 default_server;
+
+        root /var/www/html;
+        index index.html index.htm index.nginx-debian.html;
+
+        server_name _;
+
+        location / {
+                try_files $uri $uri/ =404;
+        }
+}
+```
+
+`default_server` beschreibt den Server der angesprochen wird, wenn `server_name` nicht einem der verfügbaren Server Blocks entspricht.
+
+Als nächstes wird der `server_name` so modifiziert, das er der domain entspricht.
+```
+        root /var/www/example.com/html;
+        index index.html index.htm index.nginx-debian.html;
+
+        server_name example.com www.example.com;
+```
+Jetzt müssen die Server Blocks nur noch aktiviert und Nginx neugestartet werden.
+
+Dazu müssen die Blöcke mit dem `sites-enabled` Verzeichnis verlinkt werden.
+
+`sudo ln -s /etc/nginx/sites-available/example.com /etc/nginx/sites-enabled/`
+
+Zum Schluss muss Nginx noch neu gestartet werden: `sudo systemctl restart nginx`
+
+Diese ganzen Schritte können nun beliebig wiederholt werden, je nach dem wie viele Server Blöcke man haben möchte.
+
+### Fazit
+
+In dieser Veranstaltung habe ich sehr viele neue Dinge gelernt, da bis zu diesem Zeitpunkt das Thema `Deployment` noch nicht in einem anderen Kurs besprochen wurde. Es wurden viele verschiedene Themenbereiche in diesem Termin behandelt, unter anderem Arbeiten mit der Commandline, ssh, web servern, Virtual Hosts, uvm. Außerdem wurde bei dieser Aufgabe mir bereits bekannte Themen (Ubuntu Linux) mit noch unbekanntem (Ngnix) vermischt.
+Die Anleitungen waren leicht verständlich und so kam jeder der Teilnehmer zum gewünschten Ergebnis.
+
+Außerdem hat es Spaß gemacht an so einem Server rumprobieren zu können, ohne Gefahr laufen zu müssen groß etwas kaputt zu machen.
+
+
+
 ### Aussicht auf die nächste Veranstaltung:
 
 1. Teilnahme am DevHouse Friday
-2. überlegen eines Themas, welches man vor dem Plenum vorstellen möchte.
+2. Überlegen eines Themas, welches man vor dem Plenum vorstellen möchte.
