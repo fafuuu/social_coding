@@ -1,6 +1,6 @@
 # DevHouse Friday Meetup
 
-Am Freitag, den 9. Juni besuchten [@Max](https://github.com/MKrusch) und ich das DevHouse Friday Meetup im Mediapark.
+Am Freitag, den 9. Juni besuchten [@Max](https://github.com/MKrusch) und ich das [DevHouse Friday Meetup](https://www.meetup.com/DevHouseFriday-Chillout/events/238182514/) im Mediapark.
 
 Die Veranstaltung begann um 18:20 Uhr mit einer Einführung und danach folgten verschiedene Vorträge.
 
