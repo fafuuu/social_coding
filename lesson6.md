@@ -31,10 +31,10 @@ Als Letztes kam der Vortrag über die IT Sparte der Bundeswehr. Max erklärte da
 Außerdem stellt er den `Cyber Readyness Index` vor und vergleicht so die Deutsche Infrastruktur mit der der USA.
 Es erfolgt außerdem ein Vergleich zwischen der Freien Wirtschaft und der Bundeswehr, wobei der Redner in diesem Fall nicht nur auf den Gehaltsaspekt eingeht, sondern auch auf den die Aspekte Selbstbestimmbares Leben und Pazifistische Lebensweise auf der einen, und mögliche Auslandseinsätze und die Verpflichtung auf mehrere Jahre auf der anderen Seite
 
-
+### Vim
 * [Vim editor](https://github.com/fafuuu/social_coding/blob/master/Vortrag/)
 
-Aussicht auf die Nächste Veranstaltung:
+### Aussicht auf die Nächste Veranstaltung:
 
 * Lizenzen
 * Berufseinstieg
