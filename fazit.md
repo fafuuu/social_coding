@@ -9,6 +9,6 @@ Desweiteren hat mir der soziale Aspekt der Veranstaltung gut gefallen, in dem un
 
 Es wurde uns außerdem nahe gelegt, sich in der lokalen Entwicklerszene zu betätigen und Kontakte zu knüpfen.
 So trifft man nicht nur neue coole Leute, sondern es können sich auch gute Chancen für den Berufseinstieg bieten. Dazu wurde uns ein Meetup nahe gelegt, bei dem es nicht nur eine Menge freundlicher Leute gab, sondern auch noch interessante Vorträge vorgetragen wurden, die sowohl cool als auch informativ waren.
-Obwohl ich vorher eher abgeneigt war, mir einen Freitag Abend lang Präsentationen anzuhören, bin ich im nachhinein doch froh das ich dort war, und das @MKrusch mitgekommen ist, denn alleine wäre ich dort bestimmt nicht hingegangen.
+Obwohl ich vorher eher abgeneigt war, mir einen Freitag Abend lang Präsentationen anzuhören, bin ich im nachhinein doch froh das ich dort war, und das [Max](https://github.com/MKrusch) mitgekommen ist, denn alleine wäre ich dort bestimmt nicht hingegangen.
 
 Durch das Wahlpflichtfach habe ich auch viel gelernt über Themen, wie ich meinen Code deploye oder Patches und Bugfixes vornehme. Auch dies empfinde ich als wichtig, da diese Prozesse der Softwarewartung nicht Bestandteil des Hauptstudiums ist.
