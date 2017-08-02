@@ -12,7 +12,7 @@ Die Slides befinden sich [hier](https://github.com/fafuuu/social_coding/blob/mas
 ### Free2Play vs Pay2Play
 In diesem Vortrag wurden die verschiedenen Geschäftsmodelle von Videospielen erläutert und anhand von Beispielen veranschaulicht.
 So handle es sich bei Free2Play um Spiele, die man kostenlos downloaden kann, aber mit Echtgeld Premium Inhalte kaufen kann (z.B bei Browsergames oder League of Legends). Auf der anderen Seite stehen Pay2Play Spiele wie Diablo(wo man einen einmaligen Kaufpreis hat) oder ein Abonnementbasiertes System wie bei World of Warcraft.
-Emre schlildert seine Eigenene Erfahrungen, die er mit den jeweiligen Modellen gemacht hat und fragt das Plenum nach seiner Meinung.
+Emre schildert seine Eigenene Erfahrungen, die er mit den jeweiligen Modellen gemacht hat und fragt das Plenum nach seiner Meinung.
 
 ### Wordpress
 Wordpress wurde vorgestellt und es wurden Gründe genannt, warum Wordpress so beliebt ist (z.B Einfachheit, Sicherheit, Erweiterbarkeit)
