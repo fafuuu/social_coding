@@ -25,4 +25,4 @@
     + Berufseinstieg
     + Debugging
 8. [10 Tipps aus "Pragmatic Programmer"](https://github.com/fafuuu/social_coding/blob/master/Pragmatic_Programmer.md)
-9. [Fazit](https://github.com/fafuuu/social_coding/blob/master/Fazit.md)
+9. [Fazit](https://github.com/fafuuu/social_coding/blob/master/fazit.md)
