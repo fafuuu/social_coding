@@ -8,6 +8,12 @@
 4. [Meetup](https://github.com/fafuuu/social_coding/blob/master/lesson4_meetup.md)
 5. [Vorbereitung Vorträge](https://github.com/fafuuu/social_coding/blob/master/lesson5.md)
 6. [Vorträge](https://github.com/fafuuu/social_coding/blob/master/lesson6.md)
+  + Free2Play vs Pay2Play
+  + Wordpress
+  + Angular
+  + Twitch und Streaming Plattformen
+  + IT bei der Bundeswehr
+  + Vim
 7. [Lizenzen/Berufseinstieg/Debugging](https://github.com/fafuuu/social_coding/blob/master/lesson7.md)
 8. [10 Tipps aus "Pragmatic Programmer"](https://github.com/fafuuu/social_coding/blob/master/Pragmatic_Programmer.md)
 9. [Fazit](https://github.com/fafuuu/social_coding/blob/master/Fazit.md)
