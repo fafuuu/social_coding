@@ -34,7 +34,7 @@ Lässt man `--global` weg gilt die Option nur lokal für ein Repository.
 
 Will man nun zu Beginn ein neues Repository anlegen, so benutzt man den Command `$ git init`.
 
-Danach wird meistens eine `README.md Datei` (Markdown Dokument) angelegt.
+Danach wird meistens eine `README.md` Datei (Markdown Dokument) angelegt.
 
 Mit `$ git status` kann man den momentanen Status des Repositories abfragen. In diesem Fall würde `git status` melden das unsere neu angelegte README noch nicht getrackt wurde.
 
@@ -53,7 +53,7 @@ Danach wird der momentane Inhalt des Index mit `$ git commit -m "Message"` in ei
 
 Ein erneutes Abfragen von`$ git status` würde nun die Nachricht zurückgeben, das es momentan nichts zu commiten gibt.
 
-Unsere README Datei lag am anfang im `Working Directory` und wurde mit dem Befehl `git add` dem `Index hinzugefügt`.
+Unsere README Datei lag am Anfang im `Working Directory` und wurde mit dem Befehl `git add` dem `Index` hinzugefügt.
 Der Index wurde dann mit `git commit` zusammen mit einer Commit Nachricht in das Lokale Repository übertragen.
 Zum Schluss kann der Inhalt des Lokalen Repositories mit `$ git push` auf ein `Remote Repository` übertragen werden, welches z.B. auf [Github](https://wwww.github.com) gehostet ist.
 
@@ -64,7 +64,7 @@ Dafür muss das `Remote Repository` entweder indem man ein bereits bestehendes R
 
 Git ist ein einfach Key-Value store, erzeugt also für jeden Content/commit einen eindeutigen Schlüssel.
 
-Wenn man an einem Feature arbeitet oder der `master` branch zum Schreiben gesperrt ist, muss man mit `git branch branchname` einen neuen Branch erzeugen. Mit dem Befehl `$ git checkout branchname` kann man dann auf den Branch wechseln und dort weiter arbeiten.
+Wenn man an einem Feature arbeitet oder der `master` Branch zum Schreiben gesperrt ist, muss man mit `git branch branchname` einen neuen Branch erzeugen. Mit dem Befehl `$ git checkout branchname` kann man dann auf den Branch wechseln und dort weiter arbeiten.
 Möchte man den Branch und den `master` Branch wieder zusammenfügen, so kann man dies mit `$ git merge` tun.
 
 Mit `$ git reset --hard` wird der Index zurückgesetzt und alle Änderungen von getrackten Dateien verworfen.
@@ -74,7 +74,7 @@ Nachdem wir die `git` Basics erklärt bekommen hatten, sollten wir selber ein Gi
 
 ## Github
 
-Als Nächstes wurde uns die Plattform `Github` gezeigt, wie ein Repository dort aufgebaut ist, und welches eine wichtige Dateien dort sind, wie z.B die `LICENSE` oder die `.gitignore`.
+Als Nächstes wurde uns die Plattform `Github` gezeigt, wie ein Repository dort aufgebaut ist, und welches eine wichtige Dateien dort sind, wie z.B die `LICENSE` oder die `.gitignore` welche beispielsweise bei `Node.js` Anwendungen verwendet werden kann, damit die `node_modules` nicht mit in dem Repository landen.
 
 Dirk erklärte uns außerdem das Konzept der Issues und Pull-Requests.
 
