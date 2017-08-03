@@ -22,10 +22,10 @@ Nach der Abarbeitung der ersten Themen beschäftigten wir uns mit dem eigentlich
 
 Begonnen wurde mit dem Updaten von Software.
 Änderungen an der Software können meist in Changelogs oder Blogposts eingesehen werden. Um zu wissen, wie aktuell die Software ist die man verwendet, gibt es das **Semantic Versioning** sprich eine Versionsnummer.
-Diese ist unterteilt in `Major, Minor, Patch`.
-Bei Bugfixes wird meistens die Patch Version erhöht. Enthält das Update neue Funktionalitäten aber bleibt abwärtskompatibel, so wird die minor erhöht. Gibt es jedoch Änderungen die die neueste Version inkompatibel mit bestehenden API's oder Dependencies macht sollte die Mayor Version erhöht werden.
+Diese ist unterteilt in `Major, Minor, Patch` (z.B. v0.4.4).
+Bei Bugfixes wird meistens die Patch Version erhöht. Enthält das Update neue Funktionalitäten aber bleibt abwärtskompatibel, so wird die Minor erhöht. Gibt es jedoch Änderungen die die neueste Version inkompatibel mit bestehenden API's oder Dependencies macht sollte die Mayor Version erhöht werden.
 
-Hier gibt es jedoch keine keine Garantie, dass das Semantic Versioning korrekt eingehalten wird, und so sollte man sich auf jeden Fall vor dem Updaten der Software informieren, in wie weit das bestehende System von den Änderunge betroffen ist.
+Hier gibt es jedoch keine keine Garantie, dass das Semantic Versioning korrekt eingehalten wird, und so sollte man sich auf jeden Fall vor dem Updaten der Software informieren, in wie weit das bestehende System von den Änderungen betroffen ist.
 
 
 ### Fehler melden
@@ -38,7 +38,7 @@ Dazu liefert man ab besten so viele Informationen wie möglich, zum Beispiel wie
 
 Qualitätssicherung kann durch verschiedene Aspekte durchgeführt werden. Zum einen gibt verschiedene Testing Verfahren, sowohl manuelle als auch automatische Tests. Es können Code Reviews durchgeführt, Anforderungen aufstellt, oder eine Dokumentation verwendet werden.
 
-Wichtig beim **Code Review** ist die Kommunikation mit den anderen Teilnehmern. Hierbei ist es wichtig das sowohl Reviewee und Reviewer sich freundlich und respektvoll behandeln und gemeinsam daran arbeiten, das alle Fehler beseitigt werden. Mehrere Leute machen es möglich Fehler zu erkennen, die der einzelne möglicherweise übersehen hätte. Dazu kommt außerdem, dass in diesem Prozess jeder sein eigenes Wissen mit einbringen kann, und so verschiedene Lösungsansätze gefunden werden, die vorher nicht bewusst waren.
+Wichtig beim **Code Review** ist die Kommunikation mit den anderen Teilnehmern. Hierbei ist es wichtig das sowohl Reviewee und Reviewer sich freundlich und respektvoll behandeln und gemeinsam daran arbeiten, das alle Fehler beseitigt werden. Mehrere Leute machen es leichter Fehler zu erkennen, die der einzelne möglicherweise übersehen hätte. Dazu kommt außerdem, dass in diesem Prozess jeder sein eigenes Wissen mit einbringen kann, und so verschiedene Lösungsansätze gefunden werden, die einem einzelnen Entwickler vorher nicht bewusst waren.
 
 ### Testing
 
@@ -49,7 +49,7 @@ Manuelles Testing ist jedoch vorallem beim User Interface oder beim Testen der U
 
 Automatische Tests sind essentiell für die Softwareentwicklung da sie meist zuverlässig sind und die Tests mit hoher Geschwindigkeit durchgeführt werden können.
 
-Automatische Tests liefern jedoch ebenfalls keine Garantie für perfekte Software denn auch diese Tests sind von einem Menschen geschrieben und wie oben gilt auch hier: kein Mensch ist perfekt und es können auch beim schreiben von automatischen Tests Dinge übersehen werden oder passieren, die so nicht vorgesehen waren.
+Automatische Tests liefern jedoch ebenfalls keine Garantie für perfekte Software denn auch diese Tests sind von einem Menschen geschrieben und wie oben gilt auch hier: kein Mensch ist perfekt und es können auch beim Schreiben von automatischen Tests Dinge übersehen werden oder passieren, die so nicht vorgesehen waren.
 
 
 **Unit Tests**
@@ -68,7 +68,17 @@ Anders als beim Unit testing werden hier nicht nur einzelne Komponente betrachte
 Beim **Test Driven Development** werden die Tests vor den zu testenden Softwarekomponenten erstellt. Erst nachdem die Test entwickelt wurden, wird die Funktionalität implementiert.
 Diese Test werden in kleinen Einzelschritten durchgeführt. Dadurch sind die Tests nicht nur schnell ausführbar, sondern auch übersichtlich, da nur ein Ausschnitt des Codes betrachtet werden muss. Sollten Änderungen an der Software nötig sein, kann der durch die Tests sicher gestellt werden, dass die Implementation noch wie erwartet funktioniert.
 
+## Fazit
+
+Die vorgestellte Seite [Choosealicence](https://choosealicense.com) fand ich sehr hilfreich, da ich mich nie damit beschäftigt habe, was die Ganzen einzelnen Lizenzen für verschiedene Aussagen haben. Auch neu für mich war, dass wenn ein Github Projekt keine Lizenz ausgewählt wurde, sie diesen Code auch nicht weiterverwenden können, weil dieser dann Urheberrecht geschützt ist.
+
+Von Testing hatte ich bis zu dieser Veranstaltung sogut wie gar keine Ahnung, meine einzige Berührung mit Softwaretests waren eine 10 Minütige Einführung in AP2 mit `Junit`.
+
 ## Aufgaben zum Debugging
+
+Die Dateien zu den Aufgaben befinden sich [hier](https://github.com/fafuuu/social_coding/tree/master/debugging_aufgaben).
+Die Aufgaben wurden in Java mit `JUnit` bearbeitet.
+
 
 ### Worte Zählen
 ```java
