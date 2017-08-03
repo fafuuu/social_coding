@@ -8,10 +8,10 @@ Einige der Projekte waren: `ein Browserplugin schreiben, einen Twitch-Bot einric
 Ich entschied mich an dem Github Projekt [Nuklear](https://github.com/vurtun/nuklear) mitzuhelfen.
 Nuklear ist eine single-header GUI Library für C, sprich die komplette library(samt Dokumentation) befindet sich in einer Headerdatei.
 
-Da die Wikiseite des Projektes kaum gepflegt wurde, wollte ich eine neue Seite in der Wiki erstellen.
+Da die Wikiseiten des Projektes kaum gepflegt wurde, wollte ich eine neue Seite in der Wiki erstellen.
 Dazu clonte ich mir das Repository und versuchte den Code der Bibliothek ans laufen zu bringen.
 
-Nach einigen Anlaufschwierigkeiten und Fehlermeldungen gelang es mir den mitgelieferten Demo Code mithilfe von X11 auszuführen.
+Nach einigen Anlaufschwierigkeiten und Fehlermeldungen gelang es mir den mitgelieferten Demo Code mithilfe von [X11](https://de.wikipedia.org/wiki/X_Window_System) auszuführen.
 
 Dann probierte ich etwas mir den Demos rum und entschied mich eine [Wikiseite](https://github.com/vurtun/nuklear/wiki/Radio) für die `Radio` Buttons anzulegen.
 Ein anderer Nutzer hatte bereits begonnen das Wiki zu füllen und so orientierte ich mich an seinem Beispiel, und machte einen Screenshot von besagten Button und gab die Funktion an, mit der die Buttons erstellt werden konnten.
