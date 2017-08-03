@@ -4,7 +4,7 @@
 
 In dieser Veranstaltung wurden uns die Basics in `git` und `GitHub` erklärt, welche wir danach anhand eines Repositories auf `GitHub` üben sollten.
 
-`git` ist ein `DVCS`, ein Distributed Version Control System.
+`git` ist ein `DVCS`, ein **D**istributed **V**ersion **C**ontrol **S**ystem.
 Ein VCS hilft den Überblick über das momentane Projekt zu behalten. Es ermöglicht unteranderem die Änderungen zum letzen Stand einzusehen, wer an welchen Inhalten gearbeitet hat. Ein weiterer Vorteil von Version Control Systems ist außerdem das verschiedene Nutzer z.B. mit Hilfe von Branches parallel arbeitet werden kann(auch an denselben Dateien) und diese am Ende leicht zusammengefügt werden können, ohne beispielsweise einen USB Stick mit den Änderungen in der Firma rumgeben zu lassen.
 
 Vorteil eines `DVCS` gegenüber eines `VCS` besteht nun darin, das kein zentraler Server benötigt wird um die Daten zu speichern, sondern jeder Entwickler besitzt eine eigene Kopie des Repositories und hat die ganze repo Historie auf seiner eigenen Festplatte.
