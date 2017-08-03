@@ -1,4 +1,4 @@
-# 10 Tipps und kurzer Begründung aus dem Buch [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)
+# 10(12) Tipps und kurze Begründung aus dem Buch [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)
 
 ## 1. Tip 50: Don't use Wizard Code you don't understand
 Code Wizards und Generatoren können zwar extrem nützlich sein und helfen schnell Softwarekomponenten und Features erzeugen, aber wenn man den produzierten Code nicht versteht, ist man abhängig von den Wizards und wenn Code oder Techniken sich verändern, können die Wizards einem nicht helfen. Mann kann dann  selber keine eigenen Änderungen implementieren oder den Code verwalten. Man kann auch keine Dokumentation schreiben wenn man den Code nicht versteht, kann Fragen/Issues der User nicht beantworten.
@@ -6,9 +6,19 @@ Code Wizards und Generatoren können zwar extrem nützlich sein und helfen schne
 
 ## 2. Tip 59: Expensive Tools do not produce better Design
 
+In dem Buch bezieht sich dieser Tip auf das Software Design, aber hier möchte ich mehr auf den allgemeinen Aspekt von "Expensive Tools" eingehen.
+Obwohl Tools eine erhebliche Hilfe sein können, ist es ratsam, sich nicht von ihren Methoden abhängig zu machen und sich alleine auf die Wergzeuge verlassen. Denn nicht nur diese Tools sind wichtig sondern auch wer(wie gut kann eine Person/ein Team mit den Tools umgehen) und wie sie eingesetzt werden. Außerdem sollte abgewogen werden, in wie fern welches Tool für das Projekt geeignet ist(z.B Größe des Projekts, Budget, usw.).
+
 ## 3. Tip 67: Treat English as just another programming language
 
+Eine Dokumentation des Projektes zu pflegen hat viele Vorteile. Sie hilft den Projektteilnehmern im Späteren Verlauf des Projektes zu reflektieren, was alles gemacht wurde.
+Sie ermöglicht es außerdem, das Benutzer bei Fragen auf die Dokumentation zurückgreifen können.
+Ist das Projekt ein Open-Source Projekt so ermöglicht die Dokumention es, anderen Entwicklern von außerhalb zu der Software beizutragen und diese zu verbessern.
+
 ## 4. Tip 68: Build Documentation In, Don't bolt it on
+
+Neben einer externen Dokumention, z.B in einem wiki, macht es Sinn, soviel wie möglich auch im Code zu Dokumentieren, falls ein Entwickler mit dem Code von Dritten arbeitet. Hierbei helfen nicht nur Kommentare, was einzelne Funktion machen, sondern auch, dass z.B die Namensgebung der Variablem passend ist, und allgemeinen Konventionen entspricht, oder das Schleifen und Anweisungen richtig eingerückt sind.
+
 
 ## 5. Tip 6: Remember the Big picture
 Oft vertieft man sich so in Details, in Features, sodass man die am Anfang aufgestellten Anfoderungen völlig aus den Augen verliert. Deshalb ist es wichtig Häufig zu überprüfen, ob das woran man gerade arbeitet, oder was im Team passiert, dem Big Picture entspricht.
