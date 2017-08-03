@@ -17,6 +17,6 @@ Dann wurden einige Aspekte zu dem Kurse und Open-Source Projekten erklärt.
 
 Unter anderem das das Mitwirken an Open-Source Projekten nicht immer einfach ist und Zeitaufwendig sein kann. Aber mithelfen bedeutet nicht nur programmieren. Oft sind auch Bugtester, Übersetzer und Leute die die Dokumentation es Projektes pflegen sehr gefragt und diese Tätigkeiten bilden einen guten Einstieg in das Projekt, die Community und den Source code.
 
-Ein Teil von Social Coding sei es, sich an der lokalen Entwicklerszene zu beteiligen und wir deshalb im laufe der Veranstaltung an einen Meetup in Köln teilnehmen sollten, um uns dort verschiedene Vorträge anzuhören.
+Ein Teil von Social Coding sei es, sich an der lokalen Entwicklerszene zu beteiligen und wir deshalb im Laufe der Veranstaltung an einen Meetup in Köln teilnehmen sollten, um uns dort verschiedene Vorträge anzuhören.
 
 Für die Veranstaltung ist neben einer jeweiligen Einführung in den Themenbereich wenig Vorlesung geplant, sondern es soll möglichst viel Praxis angewandt werden.
