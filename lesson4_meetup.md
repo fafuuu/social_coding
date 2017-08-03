@@ -25,3 +25,10 @@ Zum Schluss stellte er noch [Let's encypt](https://letsencrypt.org/) vor.
 
 
 Am Ende der Veranstaltung gab es noch eine Disskussionsrunde.
+
+
+### Fazit
+
+Obwohl ich der Veranstaltung am Anfgang gegenüber skeptisch war, hat der Abend viel Spaß gemacht.
+Am besten gefallen hat mir der Sega Dreamcast Vortrag, da der Modding Prozess dort sehr detailreich geschildert wurde und ich ein großer Fan von Retro Konsolen bin. Der Amiga Vortrag hat mich sehr überrascht das es möglich ist ein Motorrad in einen Amiga Joystick umzufunktionieren um so während des Fahrens auf dem Motorrad auch seine Figur in dem Rennspiel steuern kann.
+Die letzte Präsentation war zwar vom Thema her nicht so entspannt wie die beiden Retro Vorträge, aber er war eine gute Wiederauffrischen einiger Lernthemen aus der Veranstaltung "Kommunikationstechnik und verteilte Netze".
