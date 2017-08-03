@@ -15,7 +15,7 @@ Das Server Setup mit Ubuntu erfolgte in mehreren Schritten:
 
 4.  Public Key Authenifikation:
     + Wenn noch nicht vorhanden mit `ssh-keygen` ein lokales `SSH-key`Paar generieren
-    + dem public key per `ssh-copy-id` and den Server schicken: `ssh-copy-id username@server_ip`
+    + den Public Key per `ssh-copy-id` and den Server schicken: `ssh-copy-id username@server_ip`
 
 5. Password Authenifikation deaktivieren
     + SSH Config öffnen : `sudo nano /etc/ssh/sshd_config`
@@ -30,7 +30,7 @@ Das Server Setup mit Ubuntu erfolgte in mehreren Schritten:
 Für eine Ausfühliche Beschreibung: [Digital Ocean Doku](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04)
 
 ### Nginx Setup
-Nachdem der Server konfiguriert ist, soll der Web server [Nginx](https://nginx.org/) installiert werden.
+Nachdem der Server konfiguriert ist, soll der Web Server [Nginx](https://nginx.org/) installiert werden.
 Dazu wird Nginx via `aptitude` installiert:
 
 ```
@@ -96,7 +96,7 @@ server {
 
 `default_server` beschreibt den Server der angesprochen wird, wenn `server_name` nicht einem der verfügbaren Server Blocks entspricht.
 
-Als nächstes wird der `server_name` so modifiziert, das er der domain entspricht.
+Als nächstes wird der `server_name` so modifiziert, das er der Domain entspricht.
 ```
         root /var/www/example.com/html;
         index index.html index.htm index.nginx-debian.html;
