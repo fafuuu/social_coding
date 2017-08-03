@@ -5,12 +5,13 @@
 In dieser Veranstaltung wurden uns die Basics in `git` und `GitHub` erklärt, welche wir danach anhand eines Repositories auf `GitHub` üben sollten.
 
 `git` ist ein `DVCS`, ein **D**istributed **V**ersion **C**ontrol **S**ystem.
-Ein VCS hilft den Überblick über das momentane Projekt zu behalten. Es ermöglicht unteranderem die Änderungen zum letzen Stand einzusehen, wer an welchen Inhalten gearbeitet hat. Ein weiterer Vorteil von Version Control Systems ist außerdem das verschiedene Nutzer z.B. mit Hilfe von Branches parallel arbeitet werden kann(auch an denselben Dateien) und diese am Ende leicht zusammengefügt werden können, ohne beispielsweise einen USB Stick mit den Änderungen in der Firma rumgeben zu lassen.
+Ein VCS hilft den Überblick über das momentane Projekt zu behalten. Es ermöglicht unter anderem die Änderungen zum letzen Stand einzusehen oder wer an welchen Inhalten gearbeitet hat. Ein weiterer Vorteil von Version Control Systems ist außerdem das verschiedene Nutzer z.B. mit Hilfe von Branches parallel arbeiten können(auch an denselben Dateien) und diese am Ende leicht zusammengefügt werden können, ohne beispielsweise einen USB Stick mit den Änderungen in der Firma rumgeben zu lassen.
 
 Vorteil eines `DVCS` gegenüber eines `VCS` besteht nun darin, das kein zentraler Server benötigt wird um die Daten zu speichern, sondern jeder Entwickler besitzt eine eigene Kopie des Repositories und hat die ganze repo Historie auf seiner eigenen Festplatte.
+
 Weitere Vorteile:
 * Befehle (außer `push` und `pull`) sind sehr performant, da diese nicht auf einen Server zugreifen sondern nur auf die Festplatte
-* Befehle (außer `push` und `pull`) können ohne Internet verbindung ausgeführt werden.
+* Befehle (außer `push` und `pull`) können ohne Internetverbindung ausgeführt werden.
 * Da jeder Nutzer das volle Repository besitzt, kann er es mit einzelnen Personen teilen, um sich vorher Feedback einzuholen, oder im Falle eines Hardware Wechsels das ganze Repository einfach verschieben.
 
 Dies bedeutet jedoch nicht das es kein Zentrales Projekt Repository geben kann.
@@ -57,12 +58,12 @@ Unsere README Datei lag am Anfang im `Working Directory` und wurde mit dem Befeh
 Der Index wurde dann mit `git commit` zusammen mit einer Commit Nachricht in das Lokale Repository übertragen.
 Zum Schluss kann der Inhalt des Lokalen Repositories mit `$ git push` auf ein `Remote Repository` übertragen werden, welches z.B. auf [Github](https://wwww.github.com) gehostet ist.
 
-Dafür muss das `Remote Repository` entweder indem man ein bereits bestehendes Repository mit `$ git clone` downloadet oder mit `git remote add origin git@github.com:fafuuu/test.git` das gewünschte Repository hinzugefügt werden.
+Dafür muss das `Remote Repository` entweder, indem man ein bereits bestehendes Repository mit `$ git clone` downloadet oder mit `git remote add origin git@github.com:fafuuu/test.git` das gewünschte Repository hinzugefügt werden.
 
 
 `$ git log` zeigt die Historie der Commits mit ihrem jeweiligen Key, wer der Autor des Commits ist, wann der Commit getätigt wurde und was die Commit Nachricht ist.
 
-Git ist ein einfach Key-Value store, erzeugt also für jeden Content/commit einen eindeutigen Schlüssel.
+Git ist ein einfach Key-Value store, erzeugt also für jeden Content/Commit einen eindeutigen Schlüssel.
 
 Wenn man an einem Feature arbeitet oder der `master` Branch zum Schreiben gesperrt ist, muss man mit `git branch branchname` einen neuen Branch erzeugen. Mit dem Befehl `$ git checkout branchname` kann man dann auf den Branch wechseln und dort weiter arbeiten.
 Möchte man den Branch und den `master` Branch wieder zusammenfügen, so kann man dies mit `$ git merge` tun.
