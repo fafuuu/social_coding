@@ -15,9 +15,9 @@ So handle es sich bei Free2Play um Spiele, die man kostenlos downloaden kann, ab
 Emre schildert seine Eigenene Erfahrungen, die er mit den jeweiligen Modellen gemacht hat und fragt das Plenum nach seiner Meinung.
 
 ### Wordpress
-Wordpress wurde vorgestellt und es wurden Gründe genannt, warum Wordpress so beliebt ist (z.B Einfachheit, Sicherheit, Erweiterbarkeit)
+Wordpress wurde vorgestellt und es wurden Gründe genannt, warum Wordpress so beliebt ist (z.B Einfachheit, Sicherheit, Erweiterbarkeit).
 Es wurden Beispiele für erfolgreiche Seiten aufgeführt, die Wordpress benutzen.
-Der Redner machte eine Gegenüberstellung, wann es sich lohne Wordpress zu verwenden und wann nicht
+Der Redner machte eine Gegenüberstellung, wann es sich lohne Wordpress zu verwenden und wann nicht.
 
 ### Angular
 Es wurde das Angular Framework von Google vorgestellt. Es ermöglicht unter anderem die 'responsivness' von Websiten zu erhöhen, und ermöglicht den Datenaustauschen zwischen Client-Server ohne die Seite neuladen zu müssen.
@@ -25,13 +25,13 @@ Es gab eine Live-Demo und verschiedene Methoden wurden vorgestellt die Angular u
 
 
 ### Twitch und Streaming
-Es wurden verschiedene Streaming Plattformen vorgestellt und der Vergleich zwischen Fernsehen und Streaming gezogen, unteranderem auch der Vergleich wie rasant Streaming gegenüber konventionellem TV zunimmt.
+Es wurden verschiedene Streaming Plattformen vorgestellt und der Vergleich zwischen Fernsehen und Streaming gezogen, unter anderem auch der Vergleich wie rasant Streaming gegenüber konventionellem TV zunimmt.
 Als Beispiele für Streaming Dienste wurden unter anderem Amazon Prime Video und Netflix genannt. Außerdem wurde noch twitch.tv eine interaktive Streaming Plattform (primär Gaming) vorgestellt, die es ermöglicht, das jeder von zuhause aus Live ins Internet broadcasten, oder an Chat Interaktionen teilnehmen kann.
 
 ### IT bei der Bundeswehr
-Als Letztes kam der Vortrag über die IT Sparte der Bundeswehr. Max erklärte das er zwar nur wenig Berührungspunkte mit der Bundewehr hätte, er es aber ziehmlich interessant fände, was die BW im Moment in ihrem IT Sektor hochzuziehen versucht. Es werden die Aufgaben der IT-Battalione und der Elektronischen Kampfführung erklärt.
+Als Letztes kam der Vortrag über die IT Sparte der Bundeswehr. Max erklärte das er zwar nur wenig Berührungspunkte mit der Bundewehr hätte, er es aber ziehmlich interessant fände, was die BW im Moment in ihrem IT Sektor hochzuziehen versucht. Es wurden die Aufgaben der IT-Battalione und der Elektronischen Kampfführung erklärt.
 Desweiteren stellt er den `Cyber Readyness Index` vor und vergleicht so die Deutsche Infrastruktur mit der der USA.
-Es erfolgt außerdem ein Vergleich zwischen der Freien Wirtschaft und der Bundeswehr, wobei der Redner in diesem Fall nicht nur auf den Gehaltsaspekt eingeht, sondern auch auf den die Aspekte Selbstbestimmbares Leben und Pazifistische Lebensweise auf der einen, und mögliche Auslandseinsätze und die Verpflichtung auf mehrere Jahre auf der anderen Seite
+Es erfolgt außerdem ein Vergleich zwischen der Freien Wirtschaft und der Bundeswehr, wobei der Redner in diesem Fall nicht nur auf den Gehaltsaspekt einging, sondern auch auf den die Aspekte Selbstbestimmbares Leben und Pazifistische Lebensweise auf der einen, und mögliche Auslandseinsätze und die Verpflichtung auf mehrere Jahre auf der anderen Seite.
 
 ### Vim
 * [Vim editor](https://github.com/fafuuu/social_coding/blob/master/Vortrag/)
