@@ -199,7 +199,6 @@ Geheimbotschaft
 ```
 ### Verschachtelte Arrays auflösen
 
-Verschlüsselung
 ```java
 
 ```
