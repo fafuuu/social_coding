@@ -1,4 +1,4 @@
-### 7. Veranstaltung
+# 7. Veranstaltung
 
 ## Lizenzen
 Für Open-Source Projekte gibt es eine Vielzahl verschiedener Lizenzen. Um diese leichter verständlich zu machen hat Github eine Website erstellt, auf der man die verschiedene Vor- und Nachteile der einzelnen Lizenzen einsehen kann.
