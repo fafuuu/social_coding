@@ -1,5 +1,7 @@
 # Social Coding WPF
 
+Dieses Repository enthält meine Artefakte für das Fach [Social Coding](https://github.com/wpf-social-coding)
+
 ## Themen
 0. [Vorstellung](https://github.com/fafuuu/social_coding/blob/master/lesson0.md)
 1. [Git Basics](https://github.com/fafuuu/social_coding/blob/master/lesson1.md)
